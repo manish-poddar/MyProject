@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/manish/Documents/MyProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/home/manish/Documents/MyProject/app/build/intermediates/pre-dexed/debug/classes-ecf283c4b4677c588fcab3bfe6f20899deceec56.jar" />
+    </item>
+    <item
+        jar="/home/manish/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/manish/Documents/MyProject/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-b082fcbbd052aa323becbc12280a33783b7e7743.jar" />
+    </item>
+    <item
+        jar="/home/manish/Documents/MyProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/manish/Documents/MyProject/app/build/intermediates/pre-dexed/debug/classes-4acb4ea08e38284142864290ef89cd93e0adf048.jar" />
+    </item>
+    <item
+        jar="/home/manish/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/manish/Documents/MyProject/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-3862e1a3b2d7d960b6f0450dccafba95d244c1d9.jar" />
+    </item>
+    <item
+        jar="/home/manish/Documents/MyProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/manish/Documents/MyProject/app/build/intermediates/pre-dexed/debug/classes-8113c4b7520415c92a042468aac1059785dfdd6c.jar" />
+    </item>
+    <item
+        jar="/home/manish/Documents/MyProject/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/manish/Documents/MyProject/app/build/intermediates/pre-dexed/debug/classes-f95b4d0457fa05cc41968c7c4067536096b3b7e8.jar" />
+    </item>
+    <item
+        jar="/home/manish/Documents/MyProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/manish/Documents/MyProject/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-2fa2dc1b26e381bac20dcb9ca1650b2d1709ca51.jar" />
+    </item>
+
+</items>
