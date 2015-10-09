@@ -53,7 +53,8 @@ public class LoginActivity extends Activity {
                                 + "\n" +
                                 "Auth Token: "
                                 + loginResult.getAccessToken().getToken()
-                );// App code
+                );
+                loginButton.setVisibility(View.GONE);
             }
 
             @Override
