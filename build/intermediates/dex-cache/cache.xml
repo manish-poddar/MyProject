@@ -2,53 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/home/manish/Documents/office/MyProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/home/manish/Documents/office/MyProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/classes-97fb59275fc05fc8e0b22b2585a12cdda7ca5d7c.jar" />
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/classes-8f8fb1a6aa4cbacc536f04db3807182c9a74e4d4.jar" />
     </item>
     <item
-        jar="/home/manish/Documents/office/MyProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jar="/home/manish/Documents/office/MyProject/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
-        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/classes-f9fd584fca6c3286a264db256fe423c870d9a820.jar" />
-    </item>
-    <item
-        jar="/home/manish/Documents/office/MyProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/classes-0b4e05c1b1f3e13c63c3e38bf0a7fcc7f7abb9aa.jar" />
-    </item>
-    <item
-        jar="/home/manish/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-b082fcbbd052aa323becbc12280a33783b7e7743.jar" />
-    </item>
-    <item
-        jar="/home/manish/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-3862e1a3b2d7d960b6f0450dccafba95d244c1d9.jar" />
-    </item>
-    <item
-        jar="/home/manish/Documents/office/MyProject/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/classes-4ab66c40890fb7595b234dcb3b8979b23bee8d77.jar" />
-    </item>
-    <item
-        jar="/home/manish/Documents/office/MyProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f478a1375582a851f013394ccc125ea3599ce9d4.jar" />
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/manish/Documents/office/MyProject/app/build/intermediates/pre-dexed/debug/classes-8807769a0541a073273018e094405231e19a95ce.jar" />
     </item>
 
 </items>
